@@ -8,7 +8,7 @@ name = "pypi"
 [packages]
 
 dj-database-url = "==0.4.2"
-Django = "==2.0.1"
+Django = "==2.2.13"
 "django-bootstrap3" = "==9.1.0"
 django-mathfilters = "==0.4.0"
 gunicorn = "==19.7.1"
